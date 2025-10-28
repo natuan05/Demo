@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "323296636027",
+    "project_id": "storageplayground-demo",
+    "storage_bucket": "storageplayground-demo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323296636027:android:3d24135eb78c5efbd946de",
+        "android_client_info": {
+          "package_name": "com.example.storageplayground"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUZz8R2QsW2VspPlo2_0-67xv6ucpWkHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
